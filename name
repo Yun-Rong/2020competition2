@@ -1,0 +1,12 @@
+
+</head>
+<body>
+    <div class="login">
+        <form action="get.php" method="get">
+        姓名：<input type='text'name="MyName"><br>
+        電話：<input type='text'name="MyPhone"><br>
+        <input type="button" value="確認" style="width:80px;height:50px;font-size:15px;border:none;border-radius:5px;background-color:#6ab4fe;color: #fff;margin-left:5px;"onclick="location.href='circle3.html'">
+        </form>
+    </div>
+</body>
+</html>
